@@ -1,0 +1,5 @@
+{:paths ["src"]
+ :deps
+ {:hodur/engine {:mvn/version "0.1.5"}}
+  arachne-framework/aristotle
+  {:git/url "https://github.com/arachne-framework/aristotle" :sha "7b93e62abc45c82c75d5cf6c0ae2c0e21a233e81"}}}}
